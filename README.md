@@ -1,2 +1,2 @@
 # EjerciciosJS
-Ejercicios de JavaScript 2º DAW curso 2022-2023
+Ejercicios de funciones en JavaScript curso 2º DAW 22-23
